@@ -1,0 +1,25 @@
+Initial Set of Ideas
+
+Platforms: Web, Android, iOS
+
+Ideas in no particular order:
+1. Highly updated list of events 'nearby'
+2. Ability for event organizers to add events
+ 2a. Types of events like festivals, milongas, practicas, classes, workshops etc.
+ 2b. Venue information, pricing, times.
+3. "Tango Now" suggests events based on time of day, user prefs, location etc.
+4. Event listings by day & location
+5. Event listings by 'specific day' & location
+6. Web OR Mobile interface for adding events (probably web is more useful)
+7. Site crawler perhaps if webmasters don't want to co-operate?
+8. How to ensure absolute accuracy in presented information (bread & butter)
+9. "Tanguero/Tanguera" -- Connect people using the app if they are close by
+ 9a. Use Facebook/Twitter/Google+ integration for location information
+ 9b. Provide a way for users to reveal themselves through the app if necessary
+ 9c. Let's try not to store ANY user information on our servers.
+10. Tango glossary (might be useful for newbies)
+11. Where to host?
+12. What's the name of the app?
+13. How to gather further requirements?
+14. Exercises or movement videos (Really really can't see this happening but
+    putting it out there just in case someone really wants to work on it)
