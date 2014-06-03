@@ -8,3 +8,23 @@ and it takes care of all the authentication business. More info at:
 https://windows.github.com/
 
 Also -- HELLO WORLD!
+
+CLONING:
+
+I'm assuming all authentication work is done per instructions and I highly
+recommend using SSH rather than HTTPS.
+
+1. Open up git-bash
+2. git clone git@github.com:CentralizedTango/tango.git
+
+PUSHING CHANGES:
+
+1. Open up git-bash
+2. cd to the directory where you've put in the files.
+3. git add <all the files you want to add>
+(you can use git status if you are not sure which files need staging for commit)
+4. git commit -m "<message>"
+5. git remote add origin git@github.com:CentralizedTango/tango.git
+6. git push -u origin master
+
+You're done!
