@@ -20,6 +20,7 @@ Ideas in no particular order:
 10. Tango glossary (might be useful for newbies)
 11. Where to host?
 12. What's the name of the app?
+<HSM> Tango Hotspot, Got Some Tango?
 13. How to gather further requirements?
 14. Exercises or movement videos (Really really can't see this happening but
     putting it out there just in case someone really wants to work on it)
