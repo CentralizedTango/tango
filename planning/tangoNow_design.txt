@@ -1,0 +1,12 @@
+1. Converse with tango mango about getting good data for our app.
+2. Everyone install android sdk
+3. ramp up
+4. design of the page
+   top to low priority
+     a. now button
+     b. location (here or city like yelp)
+     c. schedule (classes, practicas, milongas, events, practicas) displayed all together
+     d. organize the data out depending on what filters customer selects
+
+partition everything out with more detail later and problems as they come.  
+
